@@ -1,1 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saektide&show_icons=1&theme=onedark&count_private=true)](https://github.com/saektide)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saektide&show_icons=1&count_private=true&bg_color=33323c&title_color=ffffff&text_color=d7d7d7&icon_color=aba4ec&cache_seconds=1800)](https://github.com/saektide)
