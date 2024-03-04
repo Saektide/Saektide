@@ -1,4 +1,4 @@
-<p style="text-align: center;">I'm Saektide. Argentinian Web Developer. Loves modern web built with Vue/React.</p>
+<p style="text-align: center;">I'm Xaeky (aka Saektide). Argentinian Web/Vue.js Developer. Loves modern web built with Vue/React.</p>
 
 ## stuff that i speak
 ![UnoCSS Badge](https://img.shields.io/badge/UnoCSS-333?logo=unocss&logoColor=777&style=for-the-badge)
@@ -15,5 +15,5 @@
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-333?logo=gnubash&logoColor=48D694&style=for-the-badge)
 
 ## social stuff
-[![Twitter Badge](https://img.shields.io/badge/@saektide-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/saektide)
-![Discord Badge](https://img.shields.io/badge/Saektide-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
+[![Twitter Badge](https://img.shields.io/badge/@xaekyy-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/xaekyy)
+![Discord Badge](https://img.shields.io/badge/xaeky-5865F2?logo=discord&logoColor=fff&style=for-the-badge)
